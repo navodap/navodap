@@ -7,4 +7,4 @@
 🌱 Currently strengthening my programming fundamentals and exploring practical applications of technology  
 🚀 Motivated to learn, build, and grow as an engineer through continuous improvement
 
-[![Navoda Perera's github stats](https://github-readme-stats.vercel.app/api?username=navodap&count private=true&show icons=true&theme=radical&hide rank=false)](https://github.com/anuragazra/github-readme-stats)
+[![Navoda Perera's github stats](https://github-readme-stats.vercel.app/api?username=navodap&count private=true&show icons=true&theme=radical&hide rank=false)](https://github.com/anuraghazra/github-readme-stats)
