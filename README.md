@@ -1,4 +1,4 @@
-👋 Hi, I'm Navoda Perera  
+👋 Hi, I'm Navoda Perera 
 
 🎓 Currently studying [Computer Engineering](https://www.ce.pdn.ac.lk/) at the University of Peradeniya, Sri Lanka  
 💻 Interested in Python programming, embedded systems, and robotics  
