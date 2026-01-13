@@ -5,7 +5,8 @@
 🤖 Enjoy working on hands-on engineering projects and solving real-world problems  
 
 🌱 Currently strengthening my programming fundamentals and exploring practical applications of technology  
-🚀 Motivated to learn, build, and grow as an engineer through continuous improvement/n
+🚀 Motivated to learn, build, and grow as an engineer through continuous improvement
+
 📧 How to reach ME :.[Email ME](e23271@eng.pdn.ac.lk)
 
 
